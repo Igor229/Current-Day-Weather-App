@@ -1,0 +1,37 @@
+.day{
+	position: relative;
+	text-align: center;
+	font-family: sans-serif;
+}
+.main-temp{
+	margin: 0;
+	font-size: 50px;
+	font-family: sans-serif;
+}
+
+.weather-icon{
+	display: flex;
+	justify-content: center;
+}
+
+.icon{
+	width: 10%;
+}
+
+.weather-content{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 30px;
+
+}
+
+.weather-info{
+	width: 800px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.content-pic{
+	/*width: 10%;*/
+}
